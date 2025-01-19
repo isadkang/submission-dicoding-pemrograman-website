@@ -211,7 +211,7 @@ nav ul li:hover {
 /* hero section */
 .hero {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     margin-top: 100px;
 }
